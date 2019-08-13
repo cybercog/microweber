@@ -90,7 +90,7 @@ See the [online guides](http://microweber.com/docs/guides/README.md) for develop
 ## Contribute <a name="contribute" />
 We are looking for people who want to help us improve Microweber. 
 
-If you are a developer, submitting fixes is easy. Just fork the Microweber repository, make your changes and submit a pull request.
+If you are a developer, submitting fixes is easy. Just fork the Microweber repository, make your changes and submit a pull request which would be reviewed and merged.
 
 ## Build Status
 [![Build Status](https://api.travis-ci.org/microweber/microweber.svg)](https://travis-ci.org/microweber/microweber)
@@ -101,9 +101,10 @@ If you are a developer, submitting fixes is easy. Just fork the Microweber repos
 
 If you like this open source CMS help us with your knowledge and time to make it even more fantastic. 
 
-Our goal is to cleanup the code and make it more modern and up to standarts. 
+Our goal is to cleanup the code and make it more modern and up to standards. 
 
-We are looking for your hand and help. 
+In doing this, we seek more hands, if not all hands on deck.
+We ask for your hand and help, spare us your time.
 
 We are developing the new version [on branch 1.1.0](https://github.com/microweber/microweber/tree/1.1.0)
 
@@ -111,7 +112,7 @@ We are developing the new version [on branch 1.1.0](https://github.com/microwebe
 ![Microweber 1.1.0](https://upload.wikimedia.org/wikipedia/commons/a/ab/Microweber_CMS_-_Admin_dashboard.jpg "")
 
  
-
+For every line of code that could change the world, we request that you;
 Join us, together we can do more! Thank you!
 
 [see demo of branch 1.1.0](http://demover.lab5.microweber.com/admin/?username=microweber&password=microweber)
